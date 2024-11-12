@@ -1,4 +1,5 @@
 ## Задачи на урок:
 
-1. повторение fetch
-2. useEffect
+1. повторение fetch, useEffect
+2. CSS modules
+3. classnames
