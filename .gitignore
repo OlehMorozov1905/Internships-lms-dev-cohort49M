@@ -6,8 +6,11 @@
 *.swo
 *.iml
 
-back_end/lesson_01
+back_end/lesson_03
 back_end/lesson_02
+back_end/lesson_05
+back_end/lesson_06
+back_end/lesson_07
 
 # Ignoring build directories and dependencies
 # Java build directory
